@@ -1,0 +1,22 @@
+{
+  "name": "CYCommonUtils",
+  "version": "0.1.0",
+  "summary": "A short description of CYCommonUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vismy/CYCommonUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vismy": "1141419686@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/vismy/CYCommonUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CYCommonUtils/Classes/**/*"
+}
